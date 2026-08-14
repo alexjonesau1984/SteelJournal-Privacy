@@ -1,0 +1,2 @@
+# SteelJournal-Privacy
+Privacy Policy
